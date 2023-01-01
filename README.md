@@ -1,5 +1,5 @@
 # Pixel-Worlds-C-Cheat
-Simple C# Pixel Worlds Cheat/Mod Menu or whatever you want to call it which is made with Unity GUI. 2560x1440 resolution recommended to see the whole UI
+Simple C# Pixel Worlds Cheat/Mod Menu or whatever you want to call it which is made with Unity GUI.
 
 - - - - - - - - - - - - - - - - 
 Added:
@@ -9,6 +9,12 @@ ESP for enemies, collectables and other players
 Tracers/ESP Boxes
 
 Collectables in world data
+
+Anti-Bounce
+
+Anti-DMG
+
+New UI (should work on all resolutions)
 
 Suggestions Open, Discord:CharonXXIII#1203
 
