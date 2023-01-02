@@ -14,6 +14,10 @@ Anti-Bounce
 
 Anti-DMG
 
+Account Tab
+
+Data Tab
+
 New UI (should work on all resolutions) 
 
 Thank you to https://github.com/Jedlord/pwplus as I've used their GUI UI and gem calculator, they have a website which is https://pw-plus.com/ too.
