@@ -20,6 +20,10 @@ Data Tab
 
 Fixed Mod Detect
 
+Fixed Anti-Bounce/GodMode/Anti-DMG
+
+Custom Username (Visual)
+
 New UI (should work on all resolutions) 
 
 Thank you to https://github.com/Jedlord/pwplus as I've used their GUI UI and gem calculator, they have a website which is https://pw-plus.com/ too.
@@ -36,7 +40,7 @@ Why does this lack some basic features such as Anti-Bounce etc? Well I haven't h
 
 Why am I releasing this? As much as I love Pixel Worlds it's being more boring lately with the lack of frequent updates or at least a major update or new items and I also just can't play this game much, it's sad to see how people get scammed by stealers still so I thought why not just make my private cheat public and like I said I won't be releasing source so nobody can turn this into a stealer.
 
-Will I improve this, yeah I will if anyone wants to DM me I don't mind adding some stuff or trying to add stuff if I get any ideas and may also make a version for lowe resoultion as there is a toggle UI on the far right of the screen you won't be able to see without 2560x1440 resoultion
+Will I improve this, yeah I will if anyone wants to DM me I don't mind adding some stuff or trying to add stuff if I get any ideas.
 
 Discord: CharonXXIII#1203
 
@@ -45,10 +49,9 @@ Youtube: https://www.youtube.com/channel/UCQrfkYmwW1vUMzClTLUaV9A
 Features
 - - - - - - - - - - - - - - - - 
 
-HOTKEYS: F3, F4, Numpad + and Numpad -
+HOTKEYS: F3, F4
 
 FLIGHT HOTKEYS: Arrow Keys
-Buggy Azz Teleport Keys: Num1, Num2, Num3, Num5
 
 Buttons
 - - - - - - - - - - - - - - - - 
