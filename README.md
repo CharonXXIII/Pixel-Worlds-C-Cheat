@@ -27,6 +27,20 @@ Custom Username (Visual)
 
 New UI (should work on all resolutions) 
 
+Improved mod detect
+
+anti-censor
+
+place blocks on players
+
+anti-vortex portals
+
+fixed anti-bounce
+
+anti-pickup
+
+NPCBot
+
 Thank you to https://github.com/Jedlord/pwplus as I've used their GUI UI and gem calculator, they have a website which is https://pw-plus.com/ too.
 
 Suggestions Open, Discord:CharonXXIII#1203
